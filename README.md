@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanieeme
-- 👀 I’m interested in ...js
+- 👀 I’m interested in ...js, Python 
 - 🌱 I’m currently learning ...backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shoneesani@gmail.com
