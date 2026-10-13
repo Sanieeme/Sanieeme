@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Sanieeme
-- 👀 I’m interested in ...Python, C, java, Js 
-- 🌱 I’m currently learning ...backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...shoneesani@gmail.com
-- 😄 Pronouns: ...bestie
-- ⚡ Fun fact: ...nothing comes easy
+<h1 align="center">Hi, I'm Sanieeme 👋</h1>
+<p align="center"><i>Nothing comes easy, so I build things the hard way and learn from it.</i></p>
 
-<!---
-Sanieeme/Sanieeme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌱 What I'm up to
+- 🔭 Currently learning **backend development**
+- 💻 Writing code in Python, C, Java and JavaScript
+- 🤝 Open to collaborating on beginner-friendly backend or Python projects
+- ⚡ Fun fact: nothing comes easy (and I'm still here anyway)
+
+### 🛠️ Tech I use
+![](https://skillicons.dev/icons?i=py,c,java,js,nodejs,git,github)
+
+### 📌 Projects
+Check out my pinned repos below. I'm adding more as I learn.
+
+### 📈 GitHub stats
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sanieeme&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanieeme&layout=compact&theme=tokyonight" />
+</p>
+
+### 📫 Reach me
+[![Email](https://img.shields.io/badge/Email-shoneesani@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:shoneesani@gmail.com)
+
+*Pronouns: bestie* 💖
